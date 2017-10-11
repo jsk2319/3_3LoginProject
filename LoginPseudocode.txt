@@ -1,0 +1,5 @@
+The correct username and password are set.
+The application will prompt the user to input the username and password.
+The application will then read the user's input.
+If the input is correct, the application will say "Welcome, Jude."
+If the input is wrong, the application will say "You entered the wrong username or password!"
